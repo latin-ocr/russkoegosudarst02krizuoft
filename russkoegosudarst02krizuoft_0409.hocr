@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./russkoegosudarst02krizuoft_0409.png"; bbox 0 0 2730 4420; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1707 954 2620 1294">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1707 948 2637 1318">
+     <span class='ocr_line' id='line_1_1' title="bbox 1707 954 2620 1147; baseline -0.047 -25"><span class='ocrx_word' id='word_1_1' title='bbox 1707 954 2620 1147; x_wconf 62' lang='lat' dir='ltr'><strong>uuuvmsmo&#39;fwnnmj</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 2010 1149 2618 1294; baseline -0.02 -40"><span class='ocrx_word' id='word_1_2' title='bbox 2010 1149 2323 1289; x_wconf 67' lang='lat' dir='ltr'><strong>umm-</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2350 1200 2357 1290; x_wconf 97' lang='grc' dir='ltr'><strong> </strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2395 1202 2398 1224; x_wconf 74' lang='lat'><em>2</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 2450 1263 2455 1269; x_wconf 36' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2490 1276 2503 1283; x_wconf 4' lang='lat' dir='ltr'><strong>f*</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2525 1155 2618 1294; x_wconf 48' lang='grc' dir='ltr'><strong>ᾖς’·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 570 363 2730 4342">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 570 363 2730 4342">
+     <span class='ocr_line' id='line_1_3' title="bbox 570 363 2730 4342; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 570 363 2730 4342; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
